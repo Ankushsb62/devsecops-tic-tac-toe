@@ -82,7 +82,7 @@ To create a production build:
 
 ```bash
 npm run build
-# or
+# or ...
 yarn build
 ```
 
